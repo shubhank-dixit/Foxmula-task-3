@@ -3,4 +3,4 @@
 
 The resulting window :
 
-<img src="Result.png"
+<img src="Result.png">
